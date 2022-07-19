@@ -1,3 +1,3 @@
-module github.com/damonyoda/govalidator
+module github.com/damonyoda/govalidator/v1
 
-go 1.13
+go 1.17
